@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.3.6
-Release:	9
+Release:	10
 Summary:	XML Indexing support
 License:	PHP License
 Group:		Development/PHP
