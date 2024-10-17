@@ -8,7 +8,7 @@ Release:	10
 Summary:	XML Indexing support
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/XML_Indexing/
+URL:		https://pear.php.net/package/XML_Indexing/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
